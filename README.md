@@ -48,4 +48,4 @@ This is the frontend of the **Restaurant Reservation & Review Platform**, design
 - email : dinesh@gmail.com
 - password : 1234567
 
-## Hi team it seems like a backend app was down I reloaded it and still frontend takes few reloads. Please reload the app and wait for few seconds. Reopening the app couple of time also works.
+## Hi team it seems like a backend app was down I reloaded it and still frontend takes few reloads. Please reload the app and wait for few seconds. Reopening the app couple of time also works. If it still didn't work contact me. Render.com makes backend shutdown after some inactivity. It takes few moments to hit the API in backend. So try switching tabs for few times and reload the app and wait for few seconds it should work.
